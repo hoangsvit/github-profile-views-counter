@@ -67,57 +67,9 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/680530238/small/week.png" height="20"> 21
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/524852513/week.md">
-				eplus.dev
-			</a>
-		</td>
-		<td>
-			2024/4/3 1:03 AM UTC
-		</td>
-		<td>
-			26
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/524852513/small/week.png" height="20"> 164
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/710577355/week.md">
-				artisan.page
-			</a>
-		</td>
-		<td>
-			2024/4/3 12:00 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/710577355/small/week.png" height="20"> 23
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/638053484/week.md">
-				it-tools
-			</a>
-		</td>
-		<td>
-			2024/4/3 12:00 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/638053484/small/week.png" height="20"> 2
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/4/5 8:14 AM UTC</i></small>
+<small><i>Last updated on 2024/4/5 8:34 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
