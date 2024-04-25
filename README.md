@@ -85,22 +85,6 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/710577355/week.md">
-				artisan.page
-			</a>
-		</td>
-		<td>
-			2024/4/23 12:40 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/710577355/small/week.png" height="20"> 23
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/638053484/week.md">
 				it-tools
 			</a>
@@ -117,7 +101,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/4/25 7:36 PM UTC</i></small>
+<small><i>Last updated on 2024/4/25 7:43 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
