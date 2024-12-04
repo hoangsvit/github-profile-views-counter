@@ -37,6 +37,22 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/749815681/week.md">
+				github-profile-views-counter
+			</a>
+		</td>
+		<td>
+			2024/12/2 1:37 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/749815681/small/week.png" height="20"> 29
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/680530238/week.md">
 				uptime
 			</a>
@@ -49,6 +65,38 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/680530238/small/week.png" height="20"> 55
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/524852513/week.md">
+				eplus.dev
+			</a>
+		</td>
+		<td>
+			2024/12/2 1:37 AM UTC
+		</td>
+		<td>
+			117
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/524852513/small/week.png" height="20"> 371
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/710577355/week.md">
+				artisan.page
+			</a>
+		</td>
+		<td>
+			2024/12/2 12:00 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/710577355/small/week.png" height="20"> 38
 		</td>
 	</tr>
 	<tr>
@@ -69,7 +117,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/12/4 6:59 PM UTC</i></small>
+<small><i>Last updated on 2024/12/4 7:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
