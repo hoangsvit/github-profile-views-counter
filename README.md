@@ -53,38 +53,6 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/680530238/week.md">
-				uptime
-			</a>
-		</td>
-		<td>
-			2025/8/26 12:00 AM UTC
-		</td>
-		<td>
-			39
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/680530238/small/week.png" height="20"> 67
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/524852513/week.md">
-				eplus.dev
-			</a>
-		</td>
-		<td>
-			2025/8/26 12:00 AM UTC
-		</td>
-		<td>
-			707
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/524852513/small/week.png" height="20"> 1744
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/710577355/week.md">
 				artisan.page
 			</a>
@@ -117,7 +85,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/28 9:51 AM UTC</i></small>
+<small><i>Last updated on 2025/8/28 10:01 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
