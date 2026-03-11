@@ -99,25 +99,9 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/710577355/small/week.png" height="20"> 48
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/638053484/week.md">
-				it-tools
-			</a>
-		</td>
-		<td>
-			2026/3/9 1:27 AM UTC
-		</td>
-		<td>
-			19
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/638053484/small/week.png" height="20"> 36
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/11 1:25 PM UTC</i></small>
+<small><i>Last updated on 2026/3/11 2:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
