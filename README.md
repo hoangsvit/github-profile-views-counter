@@ -37,6 +37,22 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/749815681/week.md">
+				github-profile-views-counter
+			</a>
+		</td>
+		<td>
+			2026/4/9 2:47 AM UTC
+		</td>
+		<td>
+			34
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/749815681/small/week.png" height="20"> 81
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/680530238/week.md">
 				uptime
 			</a>
@@ -101,7 +117,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/4/11 5:20 AM UTC</i></small>
+<small><i>Last updated on 2026/4/11 6:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
