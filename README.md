@@ -26,13 +26,13 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2026/7/17 12:00 AM UTC
+			2026/7/18 12:00 AM UTC
 		</td>
 		<td>
-			112
+			113
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/383661745/small/week.png" height="20"> 207
+			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/383661745/small/week.png" height="20"> 208
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 			</a>
 		</td>
 		<td>
-			2026/7/17 1:11 AM UTC
+			2026/7/18 12:55 AM UTC
 		</td>
 		<td>
 			36
@@ -53,71 +53,23 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/680530238/week.md">
-				uptime
-			</a>
-		</td>
-		<td>
-			2026/7/17 1:11 AM UTC
-		</td>
-		<td>
-			198
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/680530238/small/week.png" height="20"> 238
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/524852513/week.md">
 				eplus.dev
 			</a>
 		</td>
 		<td>
-			2026/7/17 12:00 AM UTC
+			2026/7/18 12:00 AM UTC
 		</td>
 		<td>
-			1483
+			1490
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/524852513/small/week.png" height="20"> 2998
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/710577355/week.md">
-				artisan.page
-			</a>
-		</td>
-		<td>
-			2026/7/17 1:12 AM UTC
-		</td>
-		<td>
-			21
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/710577355/small/week.png" height="20"> 51
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/638053484/week.md">
-				it-tools
-			</a>
-		</td>
-		<td>
-			2026/7/17 1:12 AM UTC
-		</td>
-		<td>
-			31
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/638053484/small/week.png" height="20"> 49
+			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/524852513/small/week.png" height="20"> 3007
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/19 11:31 PM UTC</i></small>
+<small><i>Last updated on 2026/7/20 1:08 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
