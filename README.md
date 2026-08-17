@@ -21,70 +21,6 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/383661745/week.md">
-				hoangsvit
-			</a>
-		</td>
-		<td>
-			2026/8/15 1:01 AM UTC
-		</td>
-		<td>
-			116
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/383661745/small/week.png" height="20"> 221
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/749815681/week.md">
-				github-profile-views-counter
-			</a>
-		</td>
-		<td>
-			2026/8/15 1:01 AM UTC
-		</td>
-		<td>
-			37
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/749815681/small/week.png" height="20"> 84
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/680530238/week.md">
-				uptime
-			</a>
-		</td>
-		<td>
-			2026/8/15 1:02 AM UTC
-		</td>
-		<td>
-			206
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/680530238/small/week.png" height="20"> 246
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/524852513/week.md">
-				eplus.dev
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:00 AM UTC
-		</td>
-		<td>
-			1643
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hoangsvit/github-profile-views-counter/raw/main/graph/524852513/small/week.png" height="20"> 3289
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hoangsvit/github-profile-views-counter/tree/main/readme/710577355/week.md">
 				artisan.page
 			</a>
@@ -117,7 +53,7 @@ The project created and maintained by [ePlus-DEV](https://github.com/ePlus-DEV).
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 2:15 PM UTC</i></small>
+<small><i>Last updated on 2026/8/17 3:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
